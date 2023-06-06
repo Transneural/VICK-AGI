@@ -1,0 +1,41 @@
+{
+    "environments": [
+      {
+        "name": "CartPole-v1",
+        "model_path": "cartpole_model.h5"
+      },
+      {
+        "name": "MountainCar-v0",
+        "model_path": "mountaincar_model.h5"
+      },
+      {
+        "name": "Pong-v0",
+        "model_path": "rl_models/pong_model_checkpoint_233.h5"
+      },
+      {
+        "name": "Pong-v1",
+        "model_path": "rl_models/pong_model_checkpoint_154.h5"
+      },
+      {
+        "name": "LunarLander-v2",
+        "model_path": "lunarlander_model.h5"
+      },
+      {
+        "name": "Acrobot-v1",
+        "model_path": "acrobot_model.h5"
+      },
+      {
+        "name": "MyEnvironment1",
+        "model_path": "model.h5"
+      },
+      {
+        "name": "MyEnvironment2",
+        "model_path": "model2.h5"
+      },
+      {
+        "name": "MyEnvironment3",
+        "model_path": "model3.h5"
+      }
+    ]
+  }
+  
